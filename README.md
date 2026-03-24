@@ -101,12 +101,3 @@ When I'm not coding, I'm probably building developer tools or experimenting with
 
 </div>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefShereen1&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true" alt="Yousef's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefShereen1&langs_count=5&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</div>
